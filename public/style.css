@@ -1,0 +1,40 @@
+.bookimg {
+    width: 500px;
+    height: fit-content;
+
+}
+
+.container-create{
+    height: 100vh;
+    
+}
+.row{
+    height: 100%;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+   
+}
+
+.booklist-container, .home-container, .edit-container{
+    margin-top: 80px;
+}
+
+.container-create .btn{
+    background-color: #42b983;
+    border-radius: 20px;
+    width: 40%;
+    
+}
+
+.container-create .btn:hover{
+    
+    background-color: #077a47;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
